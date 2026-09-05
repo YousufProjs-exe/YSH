@@ -4,7 +4,8 @@ YSH (Yousuf Shell) is a custom-built Java-based shell system that combines a com
 
 Built for learning, experimentation, and extensibility, YSH simulates operating system shell behavior while adding custom enhancements, themes, and interactive features.
 
-[Download](https://github.com/YousufProjs-exe/YSH/releases/tag/v1.0)
+[Download](https://github.com/YousufProjs-exe/YSH/releases/tag/v7.GUI)
+[Visit](https://yshweb.netlify.app)
 ---
 
 ## Features
